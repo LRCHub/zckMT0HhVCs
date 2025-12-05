@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Signal",
+  "base_artist": "Kroi",
+  "createdAt": "2025-12-05T18:24:08.050019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "시그널 (Signal)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/01_시그널_(Signal)_f(x).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Signal And Sign",
+      "artist": "Maxïmo Park",
+      "has_synced": false,
+      "path": "select/02_Signal_And_Sign_Maxïmo_Park.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sun Comes Up (feat. Busy Signal & Joeboy) [Mixed]",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/03_Sun_Comes_Up_(feat._Busy_Signal_&_Joeboy)_[Mixed]_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sun Comes Up (feat. Busy Signal & Joeboy)",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/04_Sun_Comes_Up_(feat._Busy_Signal_&_Joeboy)_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wait For Signal",
+      "artist": "Tricky feat. Asia Argento",
+      "has_synced": true,
+      "path": "select/05_Wait_For_Signal_Tricky_feat._Asia_Argento.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Signal",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/06_Signal_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Signal - Live",
+      "artist": "Sylvan Esso",
+      "has_synced": false,
+      "path": "select/07_Signal_-_Live_Sylvan_Esso.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Signal 30 (Justin Robertson Deadstock 33s Remix)",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/08_Signal_30_(Justin_Robertson_Deadstock_33s_Remix)_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Signal 30 (Title Sequence Remix)",
+      "artist": "Public Service Broadcasting",
+      "has_synced": false,
+      "path": "select/09_Signal_30_(Title_Sequence_Remix)_Public_Service_Broadcasting.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Signal",
+      "artist": "Chris Travis",
+      "has_synced": false,
+      "path": "select/10_No_Signal_Chris_Travis.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Signal Morning",
+      "artist": "Circulatory System",
+      "has_synced": false,
+      "path": "select/11_Signal_Morning_Circulatory_System.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Signal to Noise",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/12_Signal_to_Noise_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Signal to Noise (Acoustic Version)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/13_Signal_to_Noise_(Acoustic_Version)_The_Cure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Signal",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Signal_Kroi.txt"
+    }
+  ]
+}
